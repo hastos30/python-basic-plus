@@ -15,3 +15,7 @@
 - [x] Комментарии
 - [x] Базовый debugging
 - [ ] Git и GitHub
+
+## Repository
+
+This repository is used for my Python Basic+ learning.
