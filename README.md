@@ -19,3 +19,14 @@
 ## Repository
 
 This repository is used for my Python Basic+ learning.
+
+### Git commands learned
+
+- git status
+- git diff
+- git add
+- git commit
+- git log
+- git fetch
+- git pull
+- git push
