@@ -36,7 +36,7 @@
 ### Этап 3. Коллекции
 
 - [x] list
-- [ ] tuple
+- [x] tuple
 - [ ] dict
 - [ ] set
 - [ ] Индексация и slicing
