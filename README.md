@@ -41,7 +41,7 @@
 - [x] set
 - [x] Индексация и slicing
 - [x] Методы коллекций
-- [ ] Comprehensions
+- [x] Comprehensions
 
 ### Этап 4. Функции
 
