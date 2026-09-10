@@ -37,7 +37,7 @@
 
 - [x] list
 - [x] tuple
-- [ ] dict
+- [x] dict
 - [ ] set
 - [ ] Индексация и slicing
 - [ ] Методы коллекций
