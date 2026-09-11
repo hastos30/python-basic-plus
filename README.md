@@ -45,13 +45,13 @@
 
 ### Этап 4. Функции
 
-- [ ] Определение функций
-- [ ] parameters / arguments
-- [ ] return
-- [ ] scope
-- [ ] *args / **kwargs
-- [ ] lambda
-- [ ] Документирование функций
+- [x] Определение функций
+- [x] parameters / arguments
+- [x] return
+- [x] scope
+- [x] *args / **kwargs
+- [x] lambda
+- [x] Документирование функций
 
 ### Этап 5. Exceptions и модули
 
