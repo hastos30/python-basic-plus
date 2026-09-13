@@ -55,9 +55,9 @@
 
 ### Этап 5. Exceptions и модули
 
-- [ ] Exceptions
-- [ ] try / except / else / finally
-- [ ] raise
+- [x] Exceptions
+- [x] try / except / else / finally
+- [x] raise
 - [ ] Импорт модулей
 - [ ] Создание собственных модулей
 - [ ] Структура Python-проекта
