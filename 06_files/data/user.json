@@ -1,0 +1,11 @@
+{
+    "name": "Alex",
+    "age": 31,
+    "is_active": true,
+    "skills": [
+        "Python",
+        "Git",
+        "Linux"
+    ],
+    "middle_name": null
+}

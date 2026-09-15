@@ -1,0 +1,2 @@
+name,age,is_active
+"{'name': 'Anna', 'age': 25, 'is_active': True}","{'name': 'Alex', 'age': 17, 'is_active': True}","{'name': 'Maria', 'age': 31, 'is_active': False}","{'name': 'John', 'age': 22, 'is_active': True}"
