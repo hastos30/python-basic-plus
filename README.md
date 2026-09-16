@@ -83,14 +83,14 @@
 
 ### Этап 8. Modern Python
 
-- [ ] Type hints
-- [ ] dataclasses
-- [ ] enumerate()
-- [ ] zip()
-- [ ] any() / all()
-- [ ] sorted() / key
-- [ ] unpacking
-- [ ] Полезные built-ins
+- [x] Type hints
+- [x] dataclasses
+- [x] enumerate()
+- [x] zip()
+- [x] any() / all()
+- [x] sorted() / key
+- [x] unpacking
+- [x] Полезные built-ins
 
 ### Этап 9. Качество кода
 
